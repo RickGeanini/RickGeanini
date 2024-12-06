@@ -11,8 +11,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - ☕ In my free time, I study about coffee and prepare methods.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-luisgeanini-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/luishenriquegeaninivieira](https://www.linkedin.com/in/luishenriquegeaninivieira/))
-
 ---
 ### :hammer_and_wrench: Languages and Tools :
 
