@@ -11,7 +11,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - ☕ In my free time, I study about coffee and prepare methods.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-luisgeanini-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/luishenriquegeaninivieira/))
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-luisgeanini-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/luishenriquegeaninivieira](https://www.linkedin.com/in/luishenriquegeaninivieira/))
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
@@ -32,6 +32,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=RickGeanini&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RickGeanini&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ---
